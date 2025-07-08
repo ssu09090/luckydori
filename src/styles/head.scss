@@ -1,0 +1,8 @@
+header{
+  @include flex-layout(row,space-between,center);
+  div{
+    @include flex-layout();
+    gap: 10px;
+    cursor: pointer;
+  }
+}

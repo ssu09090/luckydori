@@ -1,0 +1,27 @@
+//variable
+:root{
+  --color-primary:#FFB3BE;
+  --color-sub1:#C3B8FF;
+  --color-sub2:#A8CAE0;
+  --color-bg:#F8EED7;
+  --color-gray: #FAFAFA;
+  --color-black: #333333;
+  --color-dark: #666666;
+}
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+a{ text-decoration: none; display: block; color: inherit;}
+li{ list-style: none;}
+html{ font-size: 16px;}
+body{ 
+  @include font-body;
+  background-color: var(--color-bg);
+}
+button{
+  cursor: pointer;
+}
+#App{
+  width: 90%;
+  @include tablet{ width: 96%;}
+  max-width: 1440px;
+  margin: 1rem auto;
+}

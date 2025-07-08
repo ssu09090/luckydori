@@ -1,0 +1,20 @@
+[
+  {
+    "id": "insta03",
+    "title": "스티커와 함께한 하루",
+    "description": "하루를 더 예쁘게, 더 아기자기하게 꾸며보세요.",
+    "image": "/images/insta/insta-03.jpg"
+  },
+  {
+    "id": "insta04",
+    "title": "따뜻한 우드 노트북",
+    "description": "손끝에서 느껴지는 따스한 감성, 나만의 기록을 시작해요.",
+    "image": "/images/insta/insta-04.jpg"
+  },
+  {
+    "id": "insta05",
+    "title": "마스킹테이프 컬렉션",
+    "description": "작은 조각으로 완성하는 나만의 다이어리 세계.",
+    "image": "/images/insta/insta-05.jpg"
+  }
+]

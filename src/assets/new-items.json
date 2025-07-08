@@ -1,0 +1,58 @@
+[
+  {
+    "id": "item001",
+    "filename": "new-item01-1.jpg",
+    "title": "스팽글 벨벳 커버 노트",
+    "price": 6900,
+    "available": false
+  },
+  {
+    "id": "item002",
+    "filename": "new-item02-1.jpg",
+    "title": "무드쉐입 라인 템플릿 세트",
+    "price": 4500,
+    "available": true
+  },
+  {
+    "id": "item003",
+    "filename": "new-item03-1.jpg",
+    "title": "시트러스 테마 포스트잇 & 엽서팩",
+    "price": 5500,
+    "available": true
+  },
+  {
+    "id": "item004",
+    "filename": "new-item04-1.jpg",
+    "title": "클래식 브라운 리필 다이어리 커버",
+    "price": 7900,
+    "available": false
+  },
+  {
+    "id": "item005",
+    "filename": "new-item05-1.jpg",
+    "title": "힐링 가든 투명 스티커 컬렉션",
+    "price": 3800,
+    "available": false
+  },
+  {
+    "id": "item006",
+    "filename": "new-item06-1.jpg",
+    "title": "플로럴 핑크 포켓노트 세트",
+    "price": 6300,
+    "available": false
+  },
+  {
+    "id": "item007",
+    "filename": "new-item07-1.jpg",
+    "title": "네이비 테이프 + 다꾸박스 세트",
+    "price": 9800,
+    "available": true
+  },
+  {
+    "id": "item008",
+    "filename": "new-item08-1.jpg",
+    "title": "빈티지 감성 만년 플래너 세트",
+    "price": 8200,
+    "available": true
+  }
+]

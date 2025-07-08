@@ -1,0 +1,14 @@
+[
+  {
+    "id": "insta01",
+    "title": "감성 벨벳 다이어리",
+    "description": "별빛이 스며든 하루, 당신의 이야기를 적어보세요.",
+    "image": "/images/insta/insta-01.jpg"
+  },
+  {
+    "id": "insta02",
+    "title": "핑크 문구 세트",
+    "description": "설레는 순간을 더 사랑스럽게, 매일이 특별해져요.",
+    "image": "/images/insta/insta-02.jpg"
+  }
+]
