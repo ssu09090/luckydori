@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luckydori/static/css/main.1d4f8ff5.css",
+    "main.js": "/luckydori/static/js/main.654e65be.js",
+    "index.html": "/luckydori/index.html",
+    "main.1d4f8ff5.css.map": "/luckydori/static/css/main.1d4f8ff5.css.map",
+    "main.654e65be.js.map": "/luckydori/static/js/main.654e65be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4f8ff5.css",
+    "static/js/main.654e65be.js"
+  ]
+}
